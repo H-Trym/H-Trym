@@ -1,5 +1,5 @@
 - 👋 Trym H
-- 💼 Dfind Consulting
+- 💼 Sopra Steria
 - 🌻 Primarily React/Frontend developer
 - 🌱 Currently learning a little bit of .NET
 
