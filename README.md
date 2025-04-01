@@ -1,5 +1,5 @@
 - 👋 Trym H
-- 💼 Sopra Steria
+- 💼 Solea
 - 🌻 Primarily React/Frontend developer
 - 🌱 Currently learning a little bit of .NET
 
